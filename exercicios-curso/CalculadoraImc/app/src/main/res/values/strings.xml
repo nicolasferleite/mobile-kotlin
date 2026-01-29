@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculadoraImc</string>
+    <string name="calc_imc">Calculadora de IMC</string>
+    <string name="peso">Digite o seu peso (ex: 67.3)</string>
+    <string name="altura">Digite a sua altura (ex: 1.85)</string>
+    <string name="categoria1">Muito abaixo do peso</string>
+    <string name="categoria2">Abaixo do peso</string>
+    <string name="categoria3">Peso normal</string>
+    <string name="categoria4">Acima do peso</string>
+    <string name="categoria5">Obesidade I</string>
+    <string name="categoria6">Obesidade II (severa)</string>
+    <string name="categoria7">Obesidade III (mórbida)</string>
+    <string name="calcular">Calcular</string>
+</resources>
